@@ -1,2 +1,2 @@
 # Linux-course
-linux full basic fundamental course
+Linux Full Basic Fundamental Course
